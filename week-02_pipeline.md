@@ -16,7 +16,6 @@ end
 PRE --> PROD --> POST
 ```
 
-
 ```mermaid
 sequenceDiagram
 participant PO as Producer
