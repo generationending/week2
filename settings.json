@@ -1,9 +1,0 @@
-﻿{
-    "files.encoding": "utf8",
-    "editor.formatOnSave": true,
-    "dotnet.defaultSolution": "Monogame.sln",
-    "csharp.inlayHints.enableInlayHintsForImplicitObjectCreation": true,
-    "csharp.inlayHints.enableInlayHintsForLambdaParameterTypes": true,
-    "csharp.inlayHints.enableInlayHintsForParameterNames": true,
-    "csharp.inlayHints.enableInlayHintsForTypes": true
-}
